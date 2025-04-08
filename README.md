@@ -9,13 +9,13 @@ This document summarizes my key activities and accomplishments during the work p
 **Key Activities & Accomplishments**
 
 1. **Client Task: GCP Security Compliance**
-
    * **Task Description:**  Addressed a critical security compliance requirement for the banking GCP projects to align with ISO/IEC 27001 standards. This involved identifying and removing GCP members utilizing personal Gmail accounts (*@gmail.com) within the project.
    * **Actions Taken:**
       * Identified GCP members using personal Gmail accounts within the specified project.
       * Implemented the necessary procedures to revoke access and remove these members from the project.
       * Ensured the changes were properly documented and communicated to relevant stakeholders (screenshot of proof of revocations).
    * **Outcome:** Enhanced the security posture of the banking-related GCP project by enforcing the use of corporate or authorized accounts, contributing to ISO/IEC 27001 compliance.
+  ![iam](https://raw.githubusercontent.com/gabrielkheisa-ca/work-report-8-apr-2025/06d734127b2db60599b33b91cd1a811d22d48f21/iam.jpg?token=GHSAT0AAAAAADBFCORMVYLUGJC7VX3XVDE4Z7VLCVA)
 
 2. **Client Task: Windows VM Partitioning in GCP**
 
@@ -25,6 +25,7 @@ This document summarizes my key activities and accomplishments during the work p
       * Utilized appropriate disk management tools within the Windows VMs to create partitions with the client-specified sizes.
       * Verified the successful creation and configuration of partitions on each VM.
    * **Outcome:** Successfully provisioned partitioned disks on Windows VMs in GCP, meeting the client's infrastructure requirements for organization, application deployment, or other specific use cases. The use of IAP tunnel ensured secure access during the configuration process.
+![rdp](https://raw.githubusercontent.com/gabrielkheisa-ca/work-report-8-apr-2025/06d734127b2db60599b33b91cd1a811d22d48f21/rdp.jpg?token=GHSAT0AAAAAADBFCORNW3H3D7K5E2BJZGYAZ7VLA4Q)
 
 3. **Documentation Repository: Blue-Green Deployment with Terraform on GCP**
 
@@ -40,6 +41,7 @@ This document summarizes my key activities and accomplishments during the work p
       * **Code Examples:**  Practical Terraform code snippets and configurations for each stage of the deployment process.
       * **Best Practices:**  Recommendations for optimizing blue-green deployments on GCP.
    * **Outcome:** Created a valuable resource repository that enables teams to effectively implement blue-green deployment strategies on GCP. This documentation promotes best practices, reduces deployment risks, and improves application availability. The repository is ready to be shared and utilized by relevant teams.
+![blue_green](https://github.com/gabrielkheisa-ca/work-report-8-apr-2025/blob/06d734127b2db60599b33b91cd1a811d22d48f21/blue_green.jpg?raw=true)
 
 4. **Professional Development: Google PCA Exam Preparation**
 
